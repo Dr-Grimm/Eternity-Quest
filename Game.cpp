@@ -1,12 +1,12 @@
 #include "Game.h"
 
 Game::Game() {
-    trials.addTrial("2: The Guardian of the Gate", "en_du_ran_e");
+    trials.addTrial("2: The Guardian of the Gate", "e_du_an_e");
     trials.addTrial("3: The Labyrinth of Illusions", "dis_er_men_");
     trials.addTrial("4: The Chalice of Reflection", "sel_les_n_ss");
     trials.addTrial("5: The Veil of Shadows", "co_rag_");
     trials.addTrial("6: The Tree of Knowledge", "_now_le_ge");
-    trials.addTrial("7: The Maze of Emotions", "e_oti_ns");
+    trials.addTrial("7: The Maze of Emotions", "emp_t_y");
     trials.addTrial("8: The Mirror of Truth", "au_hent_c_ty");
     trials.addTrial("9: The Scales of Justice", "in_eg_it_");
     trials.addTrial("10: The Song of Creation", "har_on_");
@@ -121,7 +121,7 @@ void Game::playGame() {
 }
 
 Trial* Game::getTrial(string scrollContents) {
-    if (scrollContents == "en_du_ran_e") {
+    if (scrollContents == "e_du_an_e") {
         return new EnduranceTrial();
     }
     else if (scrollContents == "dis_er_men_") {
@@ -136,7 +136,7 @@ Trial* Game::getTrial(string scrollContents) {
     else if (scrollContents == "_now_le_ge") {
         return new KnowledgeTrial();
     }
-    else if (scrollContents == "e_oti_ns") {
+    else if (scrollContents == "emp_t_y") {
         return new EmotionsTrial();
     }
     else if (scrollContents == "au_hent_c_ty") {
