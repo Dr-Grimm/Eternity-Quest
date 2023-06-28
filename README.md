@@ -16,7 +16,8 @@ The game is called "Quest for Eternity," and it takes players on a mystical jour
 - #### Save and Load Functionality:
   Players can save their progress, it loads back if you have answered incorrectly and player able to continue their quest.
 - #### Interactive User Interfac:
-  Custom Ascii Art to provide cool designs to attract players to visualize this simple text based game.
+  Custom Ascii Art to provide cool designs to attract players to visualize this simple text based game. We have included
+  all our ascii art that represents each chapter in a text file. Each own is made by ourselves.
 - #### Victory Message:
   Upon completing the game, players receive a victory message, celebrating their achievement.
 
