@@ -3,12 +3,12 @@ Hackathon 2 - Text Based C++ Game
 
 
 ## Description of the Game:
-The game is called "Quest for Eternity," and it takes players on a mystical journey to attain eternity. The main character, embarks on a quest to prove his/her worthiness by passing through ten trials. Each trial is represented by a riddle that must be solved to progress further. The ultimate goal is to reach the Gate of Eternity and become an eternal being of the universe to provide harmony and sustain the beautiful creation of the world.
+The game is called "Quest for Eternity," and it takes players on a mystical journey to attain eternity. The main character, embarks on a quest to prove his/her worthiness by passing through nine trials. Each trial is represented by a riddle that must be solved to progress further. The ultimate goal is to reach the Gate of Eternity and become an eternal being of the universe to provide harmony and sustain the beautiful creation of the world.
 
 ## Features of the Game:
 
 - ####  Engaging Storyline:
-  The game offers a captivating narrative as players follow a Mortal's journey through ten challenging trials.
+  The game offers a captivating narrative as players follow a Mortal's journey through nine challenging trials.
 - #### Riddle-based Gameplay:
   Players must solve riddles to progress through each trial, testing their knowledge and problem-solving skills.
 - #### Scroll of Wisdom:
@@ -27,7 +27,7 @@ The game is called "Quest for Eternity," and it takes players on a mystical jour
 3. If starting a new game, the quest begins with the first trial.
 4. Read the riddle presented for each trial and enter your answer.
 5. If needed, use the **Scroll of Wisdom** to obtain hints by typing *"hint"* during the answer input.
-6. Progress through all ten trials by answering the riddles correctly.
+6. Progress through all nine trials by answering the riddles correctly.
 7. If you answer incorrectly, the journey ends, and you will need to start again or load a saved game.
 8. Upon completing the final trial, receive a victory message and **celebrate your success**
 
